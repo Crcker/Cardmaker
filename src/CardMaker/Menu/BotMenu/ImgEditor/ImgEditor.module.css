@@ -1,0 +1,17 @@
+.ImgEditor
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid black;
+    width: 150px;
+    height: 70px;
+    margin-right: 5px;
+}
+
+.ImgEditorButton
+{
+    width: 120px;
+    margin-bottom: 5px;
+}

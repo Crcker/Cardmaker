@@ -1,0 +1,8 @@
+.Canvas
+{
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}

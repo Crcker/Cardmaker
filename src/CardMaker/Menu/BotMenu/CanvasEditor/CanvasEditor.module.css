@@ -1,0 +1,27 @@
+.CanvasEditor
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid black;
+    width: 150px;
+    height: 70px;
+    margin-right: 5px;
+}
+
+.CanvasEditorField
+{
+    height: 15px;
+    width: 60px;
+    margin-right: 5px;
+}
+.CanvasEditorBlock
+{
+    display: flex;
+    flex-direction: row;  
+    align-items: center;
+    align-self: flex-start;
+    height: 30px;
+    width: 90px;
+}

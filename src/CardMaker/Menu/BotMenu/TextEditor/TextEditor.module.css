@@ -1,0 +1,22 @@
+.TextEditor
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 130px;
+    height: 70px;
+    border-right: 1px solid black;
+    margin-right: 5px;
+}
+
+.TextEditorBlock
+{
+    display: flex;
+    align-self: start;
+}
+
+.Button
+{
+    margin-left: 5px;
+}
